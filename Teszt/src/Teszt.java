@@ -62,7 +62,8 @@ public class Teszt {
 		}
 
 		System.out.println("A(z) " + tomb[max].kod + " kódú fő " + nincsMegoldas[max] + " kérdésre nem válaszolt.");
-		// ez t�rt�nt ez igy volt 
+		// ez t�rt�nt ez igy volt 
+		//aluowgduiafwdfauwdfiuawd
 		System.out.println("adwadwadawdawdawdawdwadwa");
 	}
 
